@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats-uc19-shrekpepsi.vercel.app/api/top-langs?username=shrekpepsi&show_icons=true&locale=en&layout=compact" alt="shrekpepsi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-uc19-shrekpepsi.vercel.app/api?username=shrekpepsi&show_icons=true&locale=en" alt="shrekpepsi" /></p>
+
+<iframe src="https://hackerrank-badge.herokuapp.com/https://github.com/Shrekpepsi" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
