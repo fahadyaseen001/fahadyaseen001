@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrekpepsi" alt="shrekpepsi" /></a> </p>
 
-- 🔭 I’m currently working on (FYP - Public Local Transport System)(AI)(React-Native)]
+- 🔭 I’m currently working on FYP - Public Local Transport System (AI / MERN Stack)
 
 - 🌱 I’m currently learning **React-native cli,React,JavaScript**
 
