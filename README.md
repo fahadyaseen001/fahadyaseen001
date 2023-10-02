@@ -73,7 +73,7 @@
   <img src="https://skillicons.dev/icons?i=react,js" alt="skills actively learning logos"> <br> 
   <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=ts,nuxtjs,kubernates,aws,jenkins" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=ts,nuxtjs,kubernates,supabase,graphql" alt="skills planning to learn logos">
 </div>
 
 <h2></h2>
