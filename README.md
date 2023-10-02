@@ -26,7 +26,7 @@
 
 * 🌊 2023 Goals: Learn ReactJS and TypeScript and Contribute to Open Source Projects. <br><br><br>
 
-* ☕ Interest: Science, Gym, Gaming, and Coding. <br><br><br>
+* ☕ Interest: Science, Gym, Gaming, and Coding. <br><br><br> 
 
 * <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies:   Coding, Gaming, Anime, Praying, Gym, and Youtube. <br><br>
 
