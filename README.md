@@ -59,10 +59,10 @@
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
   
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <img src="https://github-readme-stats-Shrekpepsi.vercel.app/api/top-langs/?username=Shrekpepsi&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
 
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/wakatime?username=godkingjay&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
+  <img src="https://github-readme-stats-Shrekpepsi.vercel.app/api/wakatime?username=Shrekpepsi&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
   <br>
   
   <h2></h2>
@@ -73,7 +73,7 @@
   <img src="https://skillicons.dev/icons?i=react,js" alt="skills actively learning logos"> <br> 
   <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=ts,nuxtjs,kubernetes	,supabase,graphql" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=ts,nuxtjs,kubernetes,supabase" alt="skills planning to learn logos">
 </div>
 
 <h2></h2>
