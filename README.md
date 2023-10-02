@@ -18,8 +18,7 @@
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
-* 👨‍💻 I'm Fahad(Shrekpepsi)👋, a passionate Software Developer, I'm<br>
-  currently pursuing a Computer Science Degree in the Pakistan. <br><br><br>
+* 👨‍💻 I'm Fahad(Shrekpepsi)👋, a passionate Software Developer, I'm currently pursuing a Computer Science Degree in the Pakistan. <br><br><br>
 
 * 🌳 I’m currently learning ReactJS,React-Native & JS! <br><br><br>
 
