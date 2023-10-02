@@ -59,7 +59,7 @@
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrekpepsi)](https://github.com/Shrekpepsi/github-readme-stats">
+  [![Top Langs](https://github-readme-stats-oon3.vercel.app/api/top-langs/?username=Shrekpepsi)](https://github.com/Shrekpepsi/github-readme-stats)
   <br>
 
   <img src="https://github-readme-stats-Shrekpepsi.vercel.app/api/wakatime?username=Shrekpepsi&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
