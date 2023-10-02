@@ -20,11 +20,11 @@
 
 * 👨‍💻 I'm Fahad(Shrekpepsi)👋, a passionate Software Developer, I'm currently pursuing a Computer Science Degree in the Pakistan. <br><br><br>
 
-* 🌳 I’m currently learning ReactJS,react Native & JS! <br><br><br>
+* 🌳 I’m currently learning ReactJS,React-Native & JS! <br><br><br>
 
 * 🐾 I’m looking to network and make friends here! <br><br><br>
 
-* 🌊 2023 Goals: Learn ReactJS and TypeScript and Contribute to Open Source Projects. <br><br><br>
+* 🌊 2023 Goals: Learn ReactJS & TypeScript and Contribute to Open Source Projects. <br><br><br>
 
 * ☕ Interest: Science, Gym, Gaming, and Coding. <br><br><br> 
 
