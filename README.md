@@ -73,7 +73,7 @@
   <img src="https://skillicons.dev/icons?i=react,js" alt="skills actively learning logos"> <br> 
   <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=ts,nuxtjs,kubernates,supabase,graphql" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=ts,nuxtjs,kubernetes	,supabase,graphql" alt="skills planning to learn logos">
 </div>
 
 <h2></h2>
@@ -98,13 +98,13 @@
 
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shrekpepsi&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=Shrekpepsi&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats-Shrekpepsi.vercel.app/api?username=&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div> <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godkingjay&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="GodkingJay's Github Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrekpepsi&custom_title=Shrekpepsi's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Shrekpepsi's Github Activity Graph" width="100%">
 </div>
 
 </br>
@@ -160,23 +160,15 @@
 
 <div align="center">
   <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
-  <a href="https://www.facebook.com/jarrian.gojar" target="_blank">
-    <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
-  </a>
-  &nbsp
-  <a href="https://twitter.com/godking_jay" target="_blank">
+  <a href="https://twitter.com/shrek_pepsi" target="_blank">
     <img src="./assets/logos/neon-twitter.png" width="48px" alt="Twitter"/>
   </a>
   &nbsp
-  <a href="https://www.instagram.com/jarrian.v.gg/" target="_blank">
-    <img src="./assets/logos/neon-instagram.png" width="48px" alt="Instagram"/>
-  </a>
-  &nbsp
-  <a href="https://www.linkedin.com/in/jarriangojar/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-fahad-yaseen-666b8923b/" target="_blank">
     <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
   </a>
   &nbsp
-  <a href="https://discord.com/users/385102038087892992" target="_blank">
+  <a href="https://discord.com/users/769284147029868574" target="_blank">
     <img src="./assets/logos/neon-discord.png" width="48px" alt="Discord"/>
   </a>
 </div>
