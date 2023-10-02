@@ -2,14 +2,14 @@
 <img src="./assets/borderseparator.gif" width="100%"/>
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Jarrian+and+Welcome+to+my+Profile!" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Fahad+and+Welcome+to+my+Profile!" alt="Hey, I'm Fahad and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 <img src="./assets/borderseparator.gif" width="100%"/>
 
 <div align="center"> 
   <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
+  <img src="https://profile-counter.glitch.me/Shrekpepsi/count.svg" />
 </div>
 
 <h2></h2>
@@ -18,17 +18,17 @@
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
-* 👨‍💻 I'm Jarrian(godkingjay)👋, a college student, I'm currently pursuing a Computer Science Degree in the Philippines. <br><br><br>
+* 👨‍💻 I'm Fahad(Shrekpepsi)👋, a passionate Software Developer, I'm currently pursuing a Computer Science Degree in the Pakistan. <br><br><br>
 
-* 🌳 I’m currently learning AI and ML using Python! <br><br><br>
+* 🌳 I’m currently learning ReactJS,react Native & JS! <br><br><br>
 
 * 🐾 I’m looking to network and make friends here! <br><br><br>
 
-* 🌊 2023 Goals: Learn AI and Machine Learning and Contribute to Open Source Projects. <br><br><br>
+* 🌊 2023 Goals: Learn ReactJS and TypeScript and Contribute to Open Source Projects. <br><br><br>
 
-* ☕ Interest: Science, Math, Coffee, and Coding. <br><br><br>
+* ☕ Interest: Science, Gym, Gaming, and Coding. <br><br><br>
 
-* <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping, Reading, Anime, Manga, Web Novel, and Facebook. <br><br>
+* <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies:   Coding, Gaming, Anime, Praying, Gym, and Youtube. <br><br>
 
 <h2></h2>
 
@@ -67,13 +67,13 @@
   
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,md,babel,nodejs,webpack,vite,html,css,sass,tailwind,materialui,js,ts,react,nextjs,redux,java,cpp,py,md,firebase,mongodb,mysql,regex,svg,atom,eclipse,vscode,postman,netlify,vercel,figma,ai,ps,pr" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,html,css,sass,tailwind,materialui,js,react,redux,java,firebase,mongodb,mysql,vscode,postman,netlify,vercel,figma,supabase,replit,kubernetes,jquery,bootstrap,styledcomponents,docker,bash" alt="skills logos" /> <br>
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=django,swift,tensorflow" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=react,js" alt="skills actively learning logos"> <br> 
   <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,bots,cs,docker,dotnet,electron,express,flask,graphql,heroku,kotlin,kubernetes,linux,lua,pytorch,r,vue" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=ts,nuxtjs,kubernates,aws,jenkins" alt="skills planning to learn logos">
 </div>
 
 <h2></h2>
