@@ -62,7 +62,6 @@
   <img src="https://github-readme-stats-oon3.vercel.app/api/top-langs/?username=Shrekpepsi&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
 
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shrekpepsi&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
   <br>
   
   <h2></h2>
@@ -100,7 +99,7 @@
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=Shrekpepsi&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=Shrekpepsi&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats-Shrekpepsi.vercel.app/api?username=Shrekpepsi&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <img src="https://github-readme-stats-oon3.vercel.app/api?username=Shrekpepsi&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div> <br>
 
 <div align="center">
