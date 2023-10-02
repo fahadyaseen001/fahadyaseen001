@@ -115,38 +115,29 @@
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
-  <a href="https://github.com/godkingjay/selenium-twitter-scraper" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=selenium-twitter-scraper" width="49%" alt="Selenium Twitter Scraper"/>
+  <a href="https://github.com/Shrekpepsi/Quarkus-Server-RESTApp" target="_blank">
+    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=Shrekpepsi&theme=radical&repo=Quarkus-Server-RESTApp" width="49%" alt="Quarkus Server RESTApp"/>
   </a>
-  <a href="https://github.com/godkingjay/sorsu" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=sorsu" width="49%" alt="SorSUcial"/>
+  <a href="https://github.com/Shrekpepsi/Near-By-Chat" target="_blank">
+    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=Shrekpepsi&theme=radical&repo=Near-By-Chat" width="49%" alt="Near By Chat"/>
   </a>
-  <a href="https://github.com/godkingjay/library-management-system-next-react" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=library-management-system-next-react" width="49%" alt="LibMS"/>
+  <a href="https://github.com/Shrekpepsi/Vehicle-Maintenance-App" target="_blank">
+    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=Shrekpepsi&theme=radical&repo=Vehicle-Maintenance-App" width="49%" alt="Vehicle Maintenance App"/>
   </a>
-  <a href="https://github.com/godkingjay/Reddit-Clone" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=reddit-clone" width="49%" alt="Reddit Clone"/>
+  <a href="https://github.com/Shrekpepsi/RailFoodApp" target="_blank">
+    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=Shrekpepsi&theme=radical&repo=RailFoodApp" width="49%" alt="RailFood App"/>
   </a>
-  <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
+  <a href="https://github.com/Shrekpepsi/locationgrabber" target="_blank">
+    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=Shrekpepsi&theme=radical&repo=locationgrabber" width="49%" alt="location grabber"/>
   </a>
-  <a href="https://github.com/godkingjay/TypeScript-and-React_Quiz-App" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=TypeScript-and-React_Quiz-App" width="49%" alt="Quizard"/>
+  <a href="https://github.com/Shrekpepsi/Screener-Web-App" target="_blank">
+    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=Shrekpepsi&theme=radical&repo=Screener-Web-App" width="49%" alt="Screener Web App"/>
   </a>
-  <a href="https://github.com/godkingjay/turbo-nextui-starter" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turbo-nextui-starter" width="49%" alt="Turborepo NextUI Starter"/>
+  <a href="https://github.com/Shrekpepsi/PlatformGame" target="_blank">
+    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=Shrekpepsi&theme=radical&repo=PlatformGame" width="49%" alt="Platform Game"/>
   </a>
-  <a href="https://github.com/godkingjay/turborepo-next-django-starter" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turborepo-next-django-starter" width="49%" alt="Turborepo Next Django Starter"/>
-  </a>
-  <a href="https://github.com/godkingjay/django-jwt-starter" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=django-jwt-starter" width="49%" alt="Django JWT Starter"/>
-  </a>
-  <a href="https://github.com/godkingjay/springer-nature-latex-template" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=springer-nature-latex-template" width="49%" alt="Springer Nature Latex Template"/>
-  </a>
-  <a href="https://github.com/godkingjay/BSCS-GVC-01-Infographics" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=BSCS-GVC-01-Infographics" width="49%" alt="Infographic Website: Artificial Intelligence - Behind Industries and Sectors"/>
+  <a href="https://github.com/Shrekpepsi/ToursimManagementSystem" target="_blank">
+    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=Shrekpepsi&theme=radical&repo=ToursimManagementSystem" width="49%" alt="Toursim Management System"/>
   </a>
 </div>
 
