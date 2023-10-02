@@ -117,9 +117,7 @@
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
   
   <a href="https://github.com/Shrekpepsi/Quarkus-Server-RESTApp" target="_blank">
-    <img src="./assets/projects/project1.png" width="49%" />
     <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=Shrekpepsi&theme=radical&repo=Quarkus-Server-RESTApp" width="49%" alt="Quarkus Server RESTApp"/>
-    <img src="./assets/projects/project1.png" width="49%" />
   </a>
   <a href="https://github.com/Shrekpepsi/Near-By-Chat" target="_blank">
     <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=Shrekpepsi&theme=radical&repo=Near-By-Chat" width="49%" alt="Near By Chat"/>
