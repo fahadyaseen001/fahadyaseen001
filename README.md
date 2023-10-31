@@ -28,7 +28,7 @@
 
 * ☕ Interest: Science, Gym, Gaming, and Coding. <br><br><br> 
 
-* <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies:   Coding, Gaming, Anime, Praying, Gym, and Youtube. <br><br>
+* <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies:   Coding, Gaming, Anime, Praying, Gym, and Twitch. <br><br>
 
 <h2></h2>
 
