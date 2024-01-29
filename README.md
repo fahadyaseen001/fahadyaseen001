@@ -24,7 +24,7 @@
 
 * 🐾 I’m looking to network and make friends here! <br><br><br>
 
-* 🌊 2024 Goals: Learn ReactJS/NextJS & TypeScript and Contribute to Open Source Projects. <br><br><br>
+* 🌊 2024 Goals: Learn ReactJS/NextJS & Ios Native Development ( Swift ) and Contribute to Open Source Projects. <br><br><br>
 
 * ☕ Interest: Science, Gym, Gaming, and Coding. <br><br><br> 
 
