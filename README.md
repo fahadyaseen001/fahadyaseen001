@@ -128,8 +128,8 @@
   <a href="https://github.com/Shrekpepsi/RailFoodApp" target="_blank">
     <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=Shrekpepsi&theme=radical&repo=RailFoodApp" width="49%" alt="RailFood App"/>
   </a>
-  <a href="https://github.com/Shrekpepsi/locationgrabber" target="_blank">
-    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=Shrekpepsi&theme=radical&repo=locationgrabber" width="49%" alt="location grabber"/>
+  <a href="https://github.com/Shrekpepsi/Public_Local_Transport_Guider" target="_blank">
+    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=Shrekpepsi&theme=radical&repo=Public_Local_Transport_Guider" width="49%" alt="Public Local Transport Guider"/>
   </a>
   <a href="https://github.com/Shrekpepsi/Screener-Web-App" target="_blank">
     <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=Shrekpepsi&theme=radical&repo=Screener-Web-App" width="49%" alt="Screener Web App"/>
@@ -137,8 +137,8 @@
   <a href="https://github.com/Shrekpepsi/PlatformGame" target="_blank">
     <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=Shrekpepsi&theme=radical&repo=PlatformGame" width="49%" alt="Platform Game"/>
   </a>
-  <a href="https://github.com/Shrekpepsi/ToursimManagementSystem" target="_blank">
-    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=Shrekpepsi&theme=radical&repo=ToursimManagementSystem" width="49%" alt="Toursim Management System"/>
+  <a href="https://github.com/Shrekpepsi/Weather-WebApp" target="_blank">
+    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=Shrekpepsi&theme=radical&repo=Weather-WebApp" width="49%" alt="Weather WebApp"/>
   </a>
 </div>
 
