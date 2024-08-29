@@ -20,7 +20,7 @@
 
 * 👨‍💻 I'm Fahad(Shrekpepsi)👋, a passionate software developer who build cool mobile & app interfaces 😁 <br><br><br>
 
-* 🌳 I’m currently learning ReactJS,NextJS & JS! <br><br><br>
+* 🌳 I’m currently learning ReactJS,NextJS & TS! <br><br><br>
 
 * 🐾 I’m looking to network and make friends here! <br><br><br>
 
