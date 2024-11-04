@@ -59,7 +59,7 @@
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
   
-  <img src="https://github-readme-stats-oon3.vercel.app/api/top-langs/?username=fahadyaseen001&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <img src="https://github-readme-stats-sigma-flax.vercel.app/api/top-langs/?username=fahadyaseen001&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
 
   <br>
@@ -99,7 +99,7 @@
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=fahadyaseen001&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=fahadyaseen001&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats-oon3.vercel.app/api?username=fahadyaseen001&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-flax.vercel.app/api?username=fahadyaseen001&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div> <br>
 
 <div align="center">
@@ -117,28 +117,28 @@
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
   
   <a href="https://github.com/Shrekpepsi/Quarkus-Server-RESTApp" target="_blank">
-    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Quarkus-Server-RESTApp" width="49%" alt="Quarkus Server RESTApp"/>
+    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Quarkus-Server-RESTApp" width="49%" alt="Quarkus Server RESTApp"/>
   </a>
   <a href="https://github.com/Shrekpepsi/Near-By-Chat" target="_blank">
-    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Near-By-Chat" width="49%" alt="Near By Chat"/>
+    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Near-By-Chat" width="49%" alt="Near By Chat"/>
   </a>
   <a href="https://github.com/Shrekpepsi/Vehicle-Maintenance-App" target="_blank">
-    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Vehicle-Maintenance-App" width="49%" alt="Vehicle Maintenance App"/>
+    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Vehicle-Maintenance-App" width="49%" alt="Vehicle Maintenance App"/>
   </a>
   <a href="https://github.com/Shrekpepsi/RailFoodApp" target="_blank">
-    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=RailFoodApp" width="49%" alt="RailFood App"/>
+    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=RailFoodApp" width="49%" alt="RailFood App"/>
   </a>
   <a href="https://github.com/Shrekpepsi/Public_Local_Transport_Guider" target="_blank">
-    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Public_Local_Transport_Guider" width="49%" alt="Public Local Transport Guider"/>
+    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Public_Local_Transport_Guider" width="49%" alt="Public Local Transport Guider"/>
   </a>
   <a href="https://github.com/Shrekpepsi/Screener-Web-App" target="_blank">
-    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Screener-Web-App" width="49%" alt="Screener Web App"/>
+    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Screener-Web-App" width="49%" alt="Screener Web App"/>
   </a>
   <a href="https://github.com/Shrekpepsi/PlatformGame" target="_blank">
-    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=PlatformGame" width="49%" alt="Platform Game"/>
+    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=PlatformGame" width="49%" alt="Platform Game"/>
   </a>
   <a href="https://github.com/Shrekpepsi/Weather-WebApp" target="_blank">
-    <img src="https://github-readme-stats-oon3.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Weather-WebApp" width="49%" alt="Weather WebApp"/>
+    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Weather-WebApp" width="49%" alt="Weather WebApp"/>
   </a>
 </div>
 
