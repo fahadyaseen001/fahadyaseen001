@@ -18,7 +18,7 @@
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate <img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
-* 👨‍💻 I'm Fahad(Shrekpepsi)👋, a passionate software developer who build cool mobile & app interfaces 😁 <br><br><br>
+* 👨‍💻 I'm Fahad👋, a passionate software developer who build cool mobile & app interfaces 😁 <br><br><br>
 
 * 🌳 I’m currently learning ReactJS,NextJS & TS! <br><br><br>
 
