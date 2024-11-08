@@ -22,13 +22,13 @@
 
 * 🌳 I’m currently learning ReactJS,NextJS & TS! <br><br><br>
 
-* 🐾 I’m looking to network and make friends here! <br><br><br>
+* 🐾 I’m looking to network and collaborate with devs here! <br><br><br>
 
 * 🌊 2024 Goals: Learn ReactJS/NextJS & Ios Native Development ( Swift ) and Contribute to Open Source Projects. <br><br><br>
 
-* ☕ Interest: Science, Gym, Gaming, and Coding. <br><br><br> 
+* ☕ Interest: Tech, Gym, Gaming, and Coding. <br><br><br> 
 
-* <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies:   Coding, Gaming, Anime, Praying, Gym, and Twitch. <br><br>
+* <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies:   Coding, Gaming, Anime, Hiking , Gym, and Twitch. <br><br>
 
 <h2></h2>
 
@@ -69,10 +69,10 @@
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,html,css,sass,tailwind,materialui,js,react,redux,java,firebase,mongodb,mysql,vscode,postman,netlify,vercel,figma,supabase,replit,kubernetes,jquery,bootstrap,styledcomponents,docker,bash" alt="skills logos" /> <br>
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=react,js" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=react,js,ts" alt="skills actively learning logos"> <br> 
   <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=ts,nuxtjs,kubernetes,supabase" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=nuxtjs,kubernetes,supabase" alt="skills planning to learn logos">
 </div>
 
 <h2></h2>
