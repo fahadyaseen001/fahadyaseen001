@@ -18,13 +18,13 @@
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate <img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
-* 👨‍💻 I'm Fahad👋, a passionate software developer who build cool mobile & app interfaces 😁 <br><br><br>
+* 👨‍💻 I'm Fahad👋, a passionate software developer who build AI/ML based FullStack Web/App 😁 <br><br><br>
 
-* 🌳 I’m currently learning ReactJS,NextJS & TS! <br><br><br>
+* 🌳 I’m currently learning and building AI/ML FullStack Projects <br><br><br>
 
 * 🐾 I’m looking to network and collaborate with devs here! <br><br><br>
 
-* 🌊 2024 Goals: Learn ReactJS/NextJS & Ios Native Development ( Swift ) and Contribute to Open Source Projects. <br><br><br>
+* 🌊 2025 Goals: Learning & Building AI/ML Projects along with Fullstack Web & Mobile Apps and Contribute to Open Source Projects. <br><br><br>
 
 * ☕ Interest: Tech, Gym, Gaming, and Coding. <br><br><br> 
 
@@ -116,29 +116,29 @@
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
   
-  <a href="https://github.com/Shrekpepsi/Quarkus-Server-RESTApp" target="_blank">
-    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Quarkus-Server-RESTApp" width="49%" alt="Quarkus Server RESTApp"/>
+  <a href="https://github.com/fahadyaseen001/DeepSeek-AI-File-Assistant" target="_blank">
+    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=DeepSeek-AI-File-Assistant" width="49%" alt="Weather WebApp"/>
+  </a>
+  <a href="https://github.com/fahadyaseen001/Taskify-AI" target="_blank">
+    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Taskify-AI" width="49%" alt="RailFood App"/>
+  </a>
+  <a href="https://github.com/Shrekpepsi/Public_Local_Transport_Guider" target="_blank">
+    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Public_Local_Transport_Guider" width="49%" alt="Public Local Transport Guider"/>
   </a>
   <a href="https://github.com/Shrekpepsi/Near-By-Chat" target="_blank">
     <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Near-By-Chat" width="49%" alt="Near By Chat"/>
   </a>
+  <a href="https://github.com/Shrekpepsi/Quarkus-Server-RESTApp" target="_blank">
+    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Quarkus-Server-RESTApp" width="49%" alt="Quarkus Server RESTApp"/>
+  </a>
   <a href="https://github.com/Shrekpepsi/Vehicle-Maintenance-App" target="_blank">
     <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Vehicle-Maintenance-App" width="49%" alt="Vehicle Maintenance App"/>
-  </a>
-  <a href="https://github.com/Shrekpepsi/RailFoodApp" target="_blank">
-    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=RailFoodApp" width="49%" alt="RailFood App"/>
-  </a>
-  <a href="https://github.com/Shrekpepsi/Public_Local_Transport_Guider" target="_blank">
-    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Public_Local_Transport_Guider" width="49%" alt="Public Local Transport Guider"/>
   </a>
   <a href="https://github.com/Shrekpepsi/Screener-Web-App" target="_blank">
     <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Screener-Web-App" width="49%" alt="Screener Web App"/>
   </a>
   <a href="https://github.com/Shrekpepsi/PlatformGame" target="_blank">
     <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=PlatformGame" width="49%" alt="Platform Game"/>
-  </a>
-  <a href="https://github.com/Shrekpepsi/Weather-WebApp" target="_blank">
-    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Weather-WebApp" width="49%" alt="Weather WebApp"/>
   </a>
 </div>
 
