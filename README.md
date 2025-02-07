@@ -119,6 +119,9 @@
   <a href="https://github.com/fahadyaseen001/DeepSeek-AI-File-Assistant" target="_blank">
     <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=DeepSeek-AI-File-Assistant" width="49%" alt="Weather WebApp"/>
   </a>
+    <a href="https://github.com/fahadyaseen001/DeepSeek-AI-Document-Chat-Assistant" target="_blank">
+    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=DeepSeek-AI-Document-Chat-Assistant" width="49%" alt="Platform Game"/>
+  </a>
   <a href="https://github.com/fahadyaseen001/Taskify-AI" target="_blank">
     <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Taskify-AI" width="49%" alt="RailFood App"/>
   </a>
@@ -137,9 +140,7 @@
   <a href="https://github.com/Shrekpepsi/Screener-Web-App" target="_blank">
     <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Screener-Web-App" width="49%" alt="Screener Web App"/>
   </a>
-  <a href="https://github.com/Shrekpepsi/PlatformGame" target="_blank">
-    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=PlatformGame" width="49%" alt="Platform Game"/>
-  </a>
+
 </div>
 
 </br>
