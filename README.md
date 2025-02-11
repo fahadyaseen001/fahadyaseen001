@@ -119,6 +119,9 @@
   <a href="https://github.com/fahadyaseen001/DeepSeek-AI-File-Assistant" target="_blank">
     <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=DeepSeek-AI-File-Assistant" width="49%" alt="Weather WebApp"/>
   </a>
+   <a href="https://github.com/fahadyaseen001/MedExplain-AI" target="_blank">
+    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=MedExplain-AI" width="49%" alt="MedExplain AI"/>
+  </a>
     <a href="https://github.com/fahadyaseen001/DeepSeek-AI-Document-Chat-Assistant" target="_blank">
     <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=DeepSeek-AI-Document-Chat-Assistant" width="49%" alt="Platform Game"/>
   </a>
@@ -137,10 +140,6 @@
   <a href="https://github.com/Shrekpepsi/Vehicle-Maintenance-App" target="_blank">
     <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Vehicle-Maintenance-App" width="49%" alt="Vehicle Maintenance App"/>
   </a>
-  <a href="https://github.com/Shrekpepsi/Screener-Web-App" target="_blank">
-    <img src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=fahadyaseen001&theme=radical&repo=Screener-Web-App" width="49%" alt="Screener Web App"/>
-  </a>
-
 </div>
 
 </br>
