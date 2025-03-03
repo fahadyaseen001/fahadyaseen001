@@ -151,7 +151,7 @@
 
 <div align="center">
   <h2 align="center">🏆 Hackathon Participations <img src="./assets/borderseparator.gif"/></h2><br>
- <a href="https://lablab.ai/event/ai-for-connectivity-hackathon-building-resilient-networks/the-loneliest/stormnet-network-resilience-system" target="_blank">
+ <a href="https://lablab.ai/event/ai-for-connectivity-hackathon-building-resilient-networks/the-lonelist/stormnet-network-resilience-system" target="_blank" rel="noopener noreferrer">
     <img src="./assets/hackathons/ai-for-connectivity-hackathon.png" width="100%" alt="AI for Connectivity Hackathon Participation"/>
  </a>
 </div>
