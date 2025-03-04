@@ -20,7 +20,7 @@
 
 * 👨‍💻 I'm Fahad👋, a passionate software developer who build AI/ML based FullStack Web/App 😁 <br><br><br>
 
-* 🌳 I’m currently learning and building AI/ML FullStack Projects <br><br><br>
+* 🌳 I’m currently learning and building AI/ML based FullStack Projects <br><br><br>
 
 * 🐾 I’m looking to network and collaborate with devs here! <br><br><br>
 
